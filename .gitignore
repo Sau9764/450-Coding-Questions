@@ -1,0 +1,11 @@
+# repo https://github.com/Sau9764/450-Coding-Questions
+
+# .class files
+*.class
+
+# Excel file
+~$FINAL450.xlsx
+FINAL450.xlsx
+
+# basic Functions
+/Basic
